@@ -1,0 +1,10 @@
+From: hr@company.com
+
+Subject: Team Meeting Schedule
+
+Hello Team,
+
+The monthly meeting is scheduled for Monday at 10 AM.
+
+Regards,
+HR Department

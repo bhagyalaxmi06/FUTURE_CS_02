@@ -1,0 +1,12 @@
+From: vendor123@gmail.com
+
+Subject: Invoice Attached
+
+Hello,
+
+Please find attached invoice for recent transaction.
+
+Open attachment and confirm payment.
+
+Regards,
+Vendor
